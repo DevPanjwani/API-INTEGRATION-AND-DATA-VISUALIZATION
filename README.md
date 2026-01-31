@@ -29,3 +29,7 @@
 ​requests: To handle HTTP requests and JSON data.
 ​pandas: To clean and structure country-specific attributes.
 ​seaborn & matplotlib: To generate high-fidelity statistical plots.
+
+##output:
+
+<img width="956" height="475" alt="Image" src="https://github.com/user-attachments/assets/24b457ec-ffeb-43d5-acd7-f8a68e5f2d5a" />
